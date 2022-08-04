@@ -12,7 +12,7 @@ https://github.com/Tandotek/Callmed-doc/wiki/Callmed-SUSE,-Descripci%C3%B3n-y-Us
 
 Documentación para integrar cualquier plataforma con la agenda y Videoconsulta de Callmed
 
-https://github.com/Tandotek/callmed-suse/wiki/Callmed-Agenda](https://github.com/Tandotek/Callmed-doc/wiki/Callmed-Agenda)
+https://github.com/Tandotek/Callmed-doc/wiki/Callmed-Agenda
 
 
 
