@@ -1,4 +1,4 @@
-# Callmed-doc
+# Callmed Docs
 Documentación de APIs y SDK Callmed
 
 Callmed SUSE - Farmacias
