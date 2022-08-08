@@ -16,4 +16,10 @@ https://github.com/Tandotek/Callmed-doc/wiki/Callmed-Agenda
 
 
 
+## Callmed API Operativo
+
+Documentación para integrar cualquier plataforma con la operación de Callmed
+
+https://github.com/Tandotek/Callmed-doc/wiki/Callmed-API---Operaciones-sobre-Callmed-a-trav%C3%A9s-de-API
+
 
